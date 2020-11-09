@@ -110,34 +110,4 @@ int main() {
     DLinkList list = CreateDLinkList(10, elemType);
     PrintDLinkList(list);
     printf("\n");
-
-//    10.
-//    Modify(list, 6, 66);
-//    PrintLinkList(list);
-
-//    11.
-//    DeleteLinkListNode(list,1);
-//    PrintLinkList(list);
-
-//    12.
-//    DeleteLinkListNode2(list, 2, 3);
-//    PrintLinkList(list);
-
-//    13.
-//    DeleteMaxNode(list);
-//    PrintLinkList(list);
-
-//    14.
-//    IsSort(list);
-//    PrintLinkList(list);
-
-//    15. 懒得写测试了0.0
-//    16.
-//    17.
-//    18.
-//    19.
-//    20.
-//    21.
-//    22.
-//    23.
 }
